@@ -1,0 +1,36 @@
+0	1
+[parent] Read material content	1.0
+[parent] Scaffolding (+orange) (+blue)	1.0
+[parent] Extended comments/questions (math) (+blue)	0.0
+[parent] Extended comments/questions (literacy)	0.0
+[parent] Extended comments/questions (personal)	
+[parent] Check child's needs	
+[parent] Redirect child attention	
+[parent] Encourage child engagement	
+[child] comment/question/response (math) (+blue) (+green)	1.0
+[child] neutral response	0.34782608695652173
+[child] correct response	0.45945945945945954
+[child] incorrect response	0.0
+Please fill in the greatest numeral magnitude involved in the utterance.	1.0
+<4	1.0
+4 - 10 (inclusive)	1.0
+> 10	
+Structured Counting	1.0
+Cardinality	1.0
+Counting subsets	
+Set Comparison	1.0
+Number Order	
+Story Problem (addition)	1.0
+Story Problem (subtraction)	
+Math language	0.0
+Promotion of Independence	0.8275862068965517
+Prompt after error	0.0
+Correction/Disaffirmation	
+Affirmation	0.0
+Inquiry of information	1.0
+Hint	1.0
+Modeling	1.0
+Instruction	1.0
+Re-representation	
+Explanation	0.0
+Overall Cohen-Kappa Value	0.8939093909390939
